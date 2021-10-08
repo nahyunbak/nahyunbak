@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Dillinger
-## _The Last Markdown Editor, Ever_
 
 # 기술 스택 
 
